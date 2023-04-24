@@ -17,5 +17,6 @@
     <button onclick="clickBtn()">ボタンを押してください</button>
     <h2><?= $num1 ?></h2>
     <script src="sample.js"></script>
+    <h2>say hello</h2>
 </body>
 </html>
